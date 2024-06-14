@@ -1,1 +1,3 @@
-# Strain-Analysis
+Developed a Machine Learning system to detect and analyze strain and fatigue levels through eye blink patterns. Utilized Python libraries such as OpenCV, dLib, numpy to process video streams and detect facial landmarks. Implemented a neural network model to monitor eye movements via an integrated webcam, capturing and analyzing the Eye Aspect Ratio (FAR) to identify abnormal blink rates. 
+The system provides real time alerts using Google Text to Speech and Tkinter for audio and visual notifications. This non-intrusive method offers applications in healthcare, workplace productivity, and mental health by assessing strain levels and enabling timely interventions.
+Technologies Used: Python, OpenCV, Dlib, Numpy, GoogleText-to-Speech, Tkinter, Machine Learning, Neural Networks, Computer Vision
